@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "psobrakseaton",
+      "name": "Patch Sobrak-Seaton",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28573875?v=4",
+      "profile": "http://sobrakseaton.com",
+      "contributions": [
+        "design",
+        "ideas",
+        "maintenance",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "design",
+  "projectOwner": "p2pcommons",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
