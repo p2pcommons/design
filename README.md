@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository includes designs for the peer-to-peer commons (a.k.a. :pear:-to-:pear: commons). These are free to reuse under the CC0 Public Domain Dedication. The pear emoji in the designs is based on the Mozilla [`fxemoji`](https://github.com/mozilla/fxemoji) repository, which contains permissively licensed emoji designs.
+This repository includes designs for the peer-to-peer commons (p2pcommons). These are free to reuse under the CC0 Public Domain Dedication.
 
 ## Contributors ✨
 
