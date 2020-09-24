@@ -1,4 +1,5 @@
-# Peer-to-peer commons designs <img src="https://github.com/p2pcommons/design/blob/main/p2pcommons-logomark-256.png" align="right" height="150" />
+# Peer-to-peer commons designs <img src="https://github.com/p2pcommons/design/raw/main/p2pcommons-logomark-1024-square.png" align="right" height="64" />
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
